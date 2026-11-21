@@ -14,5 +14,15 @@
       "expiresOn": 0,
       "sshPassword": ""
     }
+  ],
+  "pgsql.serverGroups": [
+    {
+      "name": "Servidores",
+      "id": "906586D0-2388-40F9-B71B-A9A912FEE3AF"
+    },
+    {
+      "name": "Servidores 1",
+      "id": "906586D0-2388-40F9-B71B-A9A912FEE3AF"
+    }
   ]
 }
