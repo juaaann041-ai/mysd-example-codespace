@@ -1,0 +1,10 @@
+DROP TRIGGER IF EXISTS tg_codigo_candidato ON PlanesFormacion;
+DROP TRIGGER IF EXISTS tg_plan_evaluador_no_conexion ON PlanesFormacion;
+DROP TRIGGER IF EXISTS tg_actualizacion_planesformacion ON PlanesFormacion;
+DROP TRIGGER IF EXISTS tg_PlanesFormacion_TEstado ON PlanesFormacion;
+DROP TRIGGER IF EXISTS trg_habilidades_plan_validar ON TienePrioridades;
+DROP TRIGGER IF EXISTS tg_TienePrioridades_prioridad ON TienePrioridades;
+DROP TRIGGER IF EXISTS tg_PlanesFormacion_eliminar ON PlanesFormacion;
+DROP TRIGGER IF EXISTS trg_notif_auto ON Notificaciones;
+DROP TRIGGER IF EXISTS trg_notif_modificacion ON Notificaciones;
+DROP TRIGGER IF EXISTS trg_notif_eliminar ON Notificaciones;

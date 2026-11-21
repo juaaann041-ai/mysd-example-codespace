@@ -3,12 +3,16 @@
     {
       "profileName": "MYSD PostgreSQL",
       "server": "localhost",
-      "port": 5432,
+      "port": "5432",
       "database": "mysd",
       "user": "student",
       "password": "",
       "authenticationType": "SqlLogin",
-      "savePassword": true
+      "savePassword": true,
+      "id": "D45CDF52-C6B3-43EC-80EC-B8AB9DB8212B",
+      "groupId": "906586D0-2388-40F9-B71B-A9A912FEE3AF",
+      "expiresOn": 0,
+      "sshPassword": ""
     }
   ]
 }
